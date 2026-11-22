@@ -1,0 +1,57 @@
+1:"$Sreact.fragment"
+2:"/_next/static/chunks/1z-rbwcpc-sqt.js"
+3:"/_next/static/chunks/3h3_yyv-plcud.js"
+4:"/_next/static/chunks/17l-xb2wygntu.js"
+5:I[91823,["$2","$3","$4"],"MapStage"]
+6:I[36172,["$2","$3","$4"],"TopBar"]
+7:I[39756,["$2","$3","$4"],"default"]
+8:I[37457,["$2","$3","$4"],"default"]
+9:I[58935,["$2","$3","$4"],"StoryPanel"]
+a:I[61466,["$2","$3","$4"],"CountryCard"]
+b:I[61466,["$2","$3","$4"],"PlaceCard"]
+c:I[36172,["$2","$3","$4"],"MapControls"]
+d:I[36172,["$2","$3","$4"],"StageNotices"]
+e:I[36172,["$2","$3","$4"],"Attribution"]
+f:I[36172,["$2","$3","$4"],"TabBar"]
+10:I[36172,["$2","$3","$4"],"SearchDialog"]
+11:I[67272,["$2","$3","$4"],"PreviewGate"]
+29:"ViewportBoundary"
+2a:I[97367,["$2","$3","$4"],"$29"]
+2b:"MetadataBoundary"
+2c:I[97367,["$2","$3","$4"],"$2b"]
+2d:"$Sreact.suspense"
+:HL["/_next/static/chunks/24v7jlpwjnarr.css","style"]
+:HL["/_next/static/chunks/1fx_1ubcz0rv2.css","style"]
+13:X
+16:X
+16:C
+19:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[["$","main",null,{"className":"gf-page _9-4i_G_page","children":["$","article",null,{"className":"_9-4i_G_article","children":[["$","p",null,{"className":"gf-micro _9-4i_G_kicker","children":"About"}],["$","h1",null,{"className":"gf-display-2","children":"How World developments are chosen, placed and labelled"}],["$","div",null,{"className":"_9-4i_G_body","children":[["$","p",null,{"children":"World developments is an index of recent headlines from established news outlets, placed on the globe. It is built by rules, listed here, so you can check why anything appears where it does. GlobeFront does not rewrite headlines and adds no words of its own to them."}],["$","h2",null,{"children":"Where the headlines come from"}],["$","p",null,{"children":"From the GDELT Project’s news index, read every 15 minutes, keeping only outlets on a short list of established news organisations. The list is provisional and will be reviewed before the feature is public. Only the headline, the outlet and the link are used; articles are not copied. Opinion, sport and culture sections are left out, as are headlines with no geopolitical vocabulary or no place named."}],["$","h2",null,{"children":"Where they are placed"}],["$","p",null,{"children":"A development is placed where its headlines name a place: a country, a region such as Gaza or Crimea, or a sea or strait. Its marker sits at that country’s or region’s label point: it does not mark where an event happened. When a headline names several places, a place after “in”, “near” or “off” is used first, then the first place named; a name is preferred to an adjective such as “Iranian”. Nothing is placed more precisely than country or region level. Boundaries follow Natural Earth’s de facto view."}],["$","h2",null,{"children":"How reports are grouped"}],"$L1a","$L1b","$L1c","$L1d","$L1e","$L1f","$L20","$L21","$L22","$L23","$L24","$L25"]}]]}]}],["$L26"],"$L27"]}],"p":"$@28","v":null,"s":"$13"}}]]
+17:[["children",{"s":"how-the-wire-works","h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","template":["$","$L8",null,{}]}]]}],"p":"$@18","v":"$16","s":"$13"},"c":"$Q19"}]]
+14:[["children",{"s":"about","h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","template":["$","$L8",null,{}]}]]}],"p":"$@15","v":"$16","s":"$13"},"c":"$Q17"}]]
+0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/24v7jlpwjnarr.css","precedence":"next"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/chunks/1fx_1ubcz0rv2.css","precedence":"next"}],["$","script","script-0",{"src":"/_next/static/chunks/1z-rbwcpc-sqt.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/3h3_yyv-plcud.js","async":true}],["$","script","script-2",{"src":"/_next/static/chunks/17l-xb2wygntu.js","async":true}]],["$","html",null,{"lang":"en-GB","className":"_3WBcSq_variable FQaqCq_variable nngANq_variable k3BbwW_variable","children":["$","body",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{"parallelRouterKey":"children","template":["$","$L8",null,{}],"notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]]}],["$","$L9",null,{}],["$","$La",null,{}],["$","$Lb",null,{}],["$","$Lc",null,{}],["$","$Ld",null,{}],["$","$Le",null,{}],["$","$Lf",null,{}],["$","$L10",null,{}],["$","$L11",null,{}]]}]}]]}],"p":"$@12","v":null,"s":"$13"},"c":"$Q14"},"h":{"r":["$","$1","h",{"children":[null,["$","$L2a",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#03060B"}]]}],["$","$L2c",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$2d",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"How World developments work · GlobeFront"}],["$","meta","1",{"name":"description","content":"The world, explained by its geography: an interactive globe and short sourced GeoBriefs."}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@2e","v":null,"s":"$13"}},"a":"$@2f","u":"$@30","b":"Ogt8IG1M9luVS8AxTxv_J"}
+31:I[97367,["$2","$3","$4"],"OutletBoundary"]
+:HL["/_next/static/chunks/24422_-97eres.css","style"]
+1a:["$","p",null,{"children":"Headlines that share a place and enough words within 36 hours are one development. Reports from the same news organisation count once."}]
+1b:["$","h2",null,{"children":"Status"}]
+1c:["$","ul",null,{"children":[["$","li",null,{"children":[["$","strong",null,{"children":"Reported"}],": one outlet so far."]}],["$","li",null,{"children":[["$","strong",null,{"children":"Corroborated"}],": two or more independent outlets within 24 hours."]}]]}]
+1d:["$","h2",null,{"children":"What the markers mean"}]
+1e:["$","p",null,{"children":"Colour always comes with a shape and words; it describes what was reported, not a GlobeFront judgement."}]
+1f:["$","ul",null,{"children":[["$","li",null,{"children":[["$","strong",null,{"children":"Red, a disc with a ring"}],": ","high-risk report, corroborated",". ","Violence, casualties or nuclear matters, reported by two or more independent outlets within 24 hours."]}],["$","li",null,{"children":[["$","strong",null,{"children":"Amber, a disc"}],": ","high-risk report from one outlet, or elevated risk, corroborated",". ","Violence, casualties or nuclear matters from one outlet so far; or sanctions, military movements or blockades from two or more."]}],["$","li",null,{"children":[["$","strong",null,{"children":"Grey, a ring"}],": ","other reports",". ","Diplomacy, politics, trade and other developments."]}]]}]
+20:["$","p",null,{"children":"“High risk” means the headline uses words about violence, casualties or nuclear matters; “elevated” means sanctions, military movements or blockades. Accidents with casualties count as high risk under this rule."}]
+21:["$","h2",null,{"children":"Order and time"}]
+22:["$","p",null,{"children":"Developments linked to a GeoBrief come first, then the rest, newest first. Times are the outlet’s publication time where the index has it, and otherwise the time the index listed the article, labelled as such. If the index has not updated for 90 minutes the list says “Feed delayed”; after six hours it says “Paused” and shows times in UTC."}]
+23:["$","h2",null,{"children":"Links to GeoBriefs"}]
+24:["$","p",null,{"children":"A development links to a GeoBrief only by rule: for the Strait of Hormuz, when a headline names the strait, or names a Gulf state together with shipping or energy words. GlobeFront’s own background appears only after it has been reviewed."}]
+25:["$","p",null,{"children":["Index:"," ",["$","a",null,{"href":"https://www.gdeltproject.org/","target":"_blank","rel":"noopener noreferrer","children":"The GDELT Project"}],"."]}]
+26:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/24422_-97eres.css","precedence":"next"}]
+27:["$","$L31",null,{"children":["$","$2d",null,{"name":"Next.MetadataOutlet","children":"$@32"}]}]
+13:300
+32:null
+30:true
+13:C
+2f:0
+18:"$undefined"
+15:"$undefined"
+12:"$undefined"
+2e:"$undefined"
+28:"$undefined"

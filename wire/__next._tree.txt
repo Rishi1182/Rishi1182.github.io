@@ -1,0 +1,10 @@
+:HL["/_next/static/chunks/24v7jlpwjnarr.css","style"]
+:HL["/_next/static/chunks/1fx_1ubcz0rv2.css","style"]
+:HL["/_next/static/media/ibm_plex_sans_latin_400_normal-s.p.1xf5nwxyfigak.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/ibm_plex_sans_latin_500_normal-s.p.2i4a1iuj6lbvw.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/ibm_plex_sans_latin_600_normal-s.p.2ovda_azncp9b.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/source_serif_4_latin_600_normal-s.p.1hueffaspwr_u.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/chunks/24422_-97eres.css","style"]
+2:[["children",{"s":"__PAGE__","h":160}]]
+1:[["children",{"s":"wire","h":96,"c":"$Q2"}]]
+0:{"b":"Ogt8IG1M9luVS8AxTxv_J","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
