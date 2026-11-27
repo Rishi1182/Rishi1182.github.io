@@ -3,7 +3,7 @@
 The built files of a test preview of GlobeFront, for friends to try. It is not the launch site, and the source is not
 published here. The site asks for a password; the news snapshot is encrypted with it.
 
-- News: a snapshot of headlines indexed by [the GDELT Project](https://www.gdeltproject.org/), last checked 2026-11-26T23:01:01Z. It
+- News: a snapshot of headlines indexed by [the GDELT Project](https://www.gdeltproject.org/), last checked 2026-11-27T00:01:01Z. It
   is refreshed about once an hour while the collector runs on the owner's laptop, and not otherwise. Headlines and
   links belong to their outlets.
 - Map data and imagery: the credits are on the map (the © button).
